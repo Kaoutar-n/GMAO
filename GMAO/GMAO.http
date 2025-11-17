@@ -1,0 +1,6 @@
+@GMAO_HostAddress = http://localhost:5138
+
+GET {{GMAO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
